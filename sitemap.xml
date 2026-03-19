@@ -1,22 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://benimanfouo.github.io/Iran_War_Investment_Research_Report_2026/Iran_War_Investment_Research_Report_2026.html</loc>
+    <loc>https://benimanfouo.github.io/Iran_War_Investment_Research_Report_2026/index.html</loc>
     <lastmod>2026-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 </urlset>
-```
-
----
-
-## In `README.md`
-
-Replace all instances of:
-```
-https://<your-username>.github.io/<your-repo-name>/
-```
-With:
-```
-https://benimanfouo.github.io/Iran_War_Investment_Research_Report_2026/

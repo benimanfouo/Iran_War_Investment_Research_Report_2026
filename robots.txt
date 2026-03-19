@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://benimanfouo.github.io/Iran_War_Investment_Research_Report_2026/sitemap.xml
